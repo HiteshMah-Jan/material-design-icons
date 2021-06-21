@@ -12,6 +12,7 @@ Restructured repository, updated assets.
 
 * Changed license in package.json.
 * Added missing device symbol sprites.
+* trigger
 
 ### 3.0.0 Update
 
