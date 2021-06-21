@@ -16,7 +16,7 @@ Restructured repository, updated assets.
 
 ### 3.0.0 Update
 
-License change to Apache 2.0!
+License change to Apache 2.0
 
 ## Getting Started
 
